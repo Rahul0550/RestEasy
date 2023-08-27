@@ -1,0 +1,161 @@
+{
+  "hotels": [
+    {
+      "name": "AdiGas",
+      "menu": [
+        {
+          "name": "Dal Fry",
+          "image": "https://imgs.search.brave.com/ziMz6Li2B9fb0QVRqGrby9tDKSma-TgAn1E_Mq4JAu8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/aW5kaWFuaGVhbHRo/eXJlY2lwZXMuY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDE5/LzA3L2RhbC1mcnkt/MS02ODB4NTEwLmpw/Zy53ZWJw",
+          "cost": 120
+        },
+        {
+          "name": "Chole Chawal",
+          "image": "https://imgs.search.brave.com/UWt-fwwS7lUwRIL57bkvucpoFz1FhabnxyxaBPKZe5M/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWct/Z2xvYmFsLmNwY2Ru/LmNvbS9yZWNpcGVz/L2Y4NGNlMGQ4MTAy/YTQ2YzgvNjgweDQ4/MmNxNzAvcmljZS1j/aG9sZS1jdXJyeS1j/aG9sZS1jaGF3YWwt/cmVjaXBlLW1haW4t/cGhvdG8uanBn",
+          "cost": 150
+        },
+        {
+          "name": "Gajar Halwa",
+          "image": "https://imgs.search.brave.com/rouJLFUK1SrAoml7xLRRWhLIkJpDtN9aRrK10I8NJR8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/d2hpc2thZmZhaXIu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDE5LzA1L0dhamFy/LUthLUhhbHdhLTIt/MS5qcGc",
+          "cost": 100
+        },
+        {
+          "name": "Gulab Jamun",
+          "image": "https://imgs.search.brave.com/hfd0gVFLF0EuIC46bFUzdc-CMI3aX2yHz7z1SEz-_HQ/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9ndWxhYi1qYW11/bi1ndWxhYmphbXVu/LWlzLWluZGlhbi1z/d2VldC1zZXJ2ZWQt/Ym93bC1hcy1waWxl/LWNsb3NldXAtdmll/d180NjY2ODktODkz/NDQuanBnP3NpemU9/NjI2JmV4dD1qcGc",
+          "cost": 80
+        },
+        {
+          "name": "Matar Paneer",
+          "image": "https://imgs.search.brave.com/IK5WxmZfNNQoeh7enmpwLbCvXHY51VMweaNQj4ciXus/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/YXBhcnRtZW50dGhl/cmFweS5pbmZvL2lt/YWdlL3VwbG9hZC9m/X2F1dG8scV9hdXRv/OmVjbyx3XzczMC9r/L1Bob3RvL0xhcmdl/JTIwUGFja2FnZXMv/MjAyMC0xMS1Gb29k/RmVzdC8yMDIwLTEx/LW1hdGFyLXBhbmVl/ci9LaXRjaG5fSG9s/aWRheV80",
+          "cost": 180
+        },
+        {
+          "name": "Rajma Chawal",
+          "image": "https://imgs.search.brave.com/XodXJBN0ZMVg0at2YfDmsvT59vdmYgqQ3EoTBIb6vpM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA1Lzc4LzAxLzc2/LzM2MF9GXzU3ODAx/NzY0Nl9KVEFnd1Fx/akd3aEdWUGdaazZ2/NW5MUzZoVE1wQ0Jo/dC5qcGc",
+          "cost": 160
+        },
+        {
+          "name": "Roti",
+          "image": "https://imgs.search.brave.com/gGQfhJkl_wE5BR4ADw85EOtaTTq7leWCpK8uzulnRQo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTA0/NDg0NDQ0MC9waG90/by9yb3RpLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz14aTkz/NV9xWVFTWGV3cURh/VUlkeE51bFpOYmRC/aElUb2gxYTc5OHRk/SWNVPQ",
+          "cost": 10
+        }
+      ]
+    },
+    {
+      "name": "RotiGhar",
+      "menu": [
+        {
+          "name": "Dal Fry",
+          "image": "https://imgs.search.brave.com/PuJHaYU9r6te8wzw8JTnHyzi4YBuLAzQ7wiGzqqYAYY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTMx/MDY4NzgxNC9waG90/by9pbmRpYW4tZm9v/ZC10YW5kb29yaS1y/b3RpLmpwZz9zPTYx/Mng2MTImdz0wJms9/MjAmYz12eHVlU0d5/NDNmMS1BeVk3eWpm/OWJjbVl2ZkhZdERq/QXRVUEFNY1dlYVVj/PQ",
+          "cost": 130
+        },
+        {
+          "name": "Chole Chawal",
+          "image": "dal_fry.jpg",
+          "cost": 150
+        },
+        {
+          "name": "Gajar Halwa",
+          "image": "dal_fry.jpg",
+          "cost": 100
+        },
+        {
+          "name": "Gulab Jamun",
+          "image": "dal_fry.jpg",
+          "cost": 80
+        },
+        {
+          "name": "Matar Paneer",
+          "image": "dal_fry.jpg",
+          "cost": 180
+        },
+        {
+          "name": "Rajma Chawal",
+          "image": "dal_fry.jpg",
+          "cost": 160
+        },
+        {
+          "name": "Roti",
+          "image": "dal_fry.jpg",
+          "cost": 10
+        }
+      ]
+    },
+    {
+      "name": "Punjabi Rasoi",
+      "menu": [
+        {
+          "name": "Dal Fry",
+          "image": "dal_fry.jpg",
+          "cost": 120
+        },
+        {
+          "name": "Chole Chawal",
+          "image": "https://imgs.search.brave.com/6x1q6O1wsMhse0Wj1mE6b_1X4mQejKC-pX_TOnh7A9E/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTMz/MDY4OTY5OS9waG90/by9jaGFuYS1tYXNh/bGEtZGlzaC5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9Y3s3/Y2pTcHdKa1hOMnhK/VEhZSFdKNm9DZ2RU/UjRnYz0",
+          "cost": 150
+        },
+        {
+          "name": "Gajar Halwa",
+          "image": "dal_fry.jpg",
+          "cost": 100
+        },
+        {
+          "name": "Gulab Jamun",
+          "image": "dal_fry.jpg",
+          "cost": 80
+        },
+        {
+          "name": "Matar Paneer",
+          "image": "dal_fry.jpg",
+          "cost": 180
+        },
+        {
+          "name": "Rajma Chawal",
+          "image": "dal_fry.jpg",
+          "cost": 160
+        },
+        {
+          "name": "Roti",
+          "image": "dal_fry.jpg",
+          "cost": 10
+        }
+      ]
+    },
+    {
+      "name": "Udupi",
+      "menu": [
+        {
+          "name": "Dal Fry",
+          "image": "dal_fry.jpg",
+          "cost": 120
+        },
+        {
+          "name": "Chole Chawal",
+          "image": "dal_fry.jpg",
+          "cost": 150
+        },
+        {
+          "name": "Gajar Halwa",
+          "image": "dal_fry.jpg",
+          "cost": 100
+        },
+        {
+          "name": "Gulab Jamun",
+          "image": "dal_fry.jpg",
+          "cost": 80
+        },
+        {
+          "name":"Matar Paneer",
+          "image": "https://imgs.search.brave.com/S42t2X8iWPD2XU6u7bvn-AxfY1qdiZLl0_aeSw3Ezso/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTMy/NTI3MTgzMS9waG90/by9ncmVlbi1wZWFz/LW9yLW1hdGFyLXBh/bmVlci1jdXJyeS5q/cGc_cz02MTJ4NjEy/Jnc9MCZrPTIwJmM9/aDBhN2pjRjJHczN2/QThoTmxXSk00QTZC/dzUtWlZtVXVXRG5r/ZWNrR01nYz0"
+        }
+        ,{
+          "name":"Rajma Chawal",
+          "image": "dal_fry.jpg"
+        },{
+          "name":"Roti",
+          "image": "dal_fry.jpg"
+        }
+    
+    ]
+}
+]
+}

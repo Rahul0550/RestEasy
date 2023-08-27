@@ -1,0 +1,26 @@
+.container {
+  width: 25%;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 10px;
+  padding: 20px;
+  margin-left: 5%;
+  background-color: azure;
+}
+
+.container button {
+  width: 80%;
+}
+
+
+button:hover{
+    background-color: grey;
+    color: dodgerblue;
+    font-weight: bold;
+    border-radius: 10px;
+}
+.horizontalRule{
+    color: white;
+    width: 98%;
+    height: 0;
+}
