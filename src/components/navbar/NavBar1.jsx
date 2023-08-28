@@ -60,7 +60,9 @@ export default function NavBar1({cartTotal}) {
                   />
                 </>
               }
-              <h2>Total:{cartTotal}</h2>
+
+              <h2>Total:<span id="total"></span></h2>
+              
               <AddShoppingCartIcon sx={{ marginTop: "20px" }} />
 
               <IconButton size="small" sx={{ marginLeft: "auto" }}>

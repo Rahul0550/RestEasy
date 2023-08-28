@@ -11,6 +11,7 @@ export default function Content({selectedHotel }) {
 
   const handleAddToCart = (cost) => {
     setCartTotal(cartTotal + cost);
+    document.getElementById("total").innerHTML = cartTotal;
   };
 
   return (
@@ -37,9 +38,6 @@ export default function Content({selectedHotel }) {
             </li>
           ))}
       </ul>
-      <div>
-        Total: ${cartTotal}
-      </div>
     </>
   );
 }
