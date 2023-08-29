@@ -15,12 +15,12 @@
         },
         {
           "name": "Gajar Halwa",
-          "image": "https://imgs.search.brave.com/rouJLFUK1SrAoml7xLRRWhLIkJpDtN9aRrK10I8NJR8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/d2hpc2thZmZhaXIu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDE5LzA1L0dhamFy/LUthLUhhbHdhLTIt/MS5qcGc",
+          "image": "https://imgs.search.brave.com/zv_Em9p-06BPuTx1Gn1-QNncr-AKRgDkDGaXxv_4X2U/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tYW1w/Zm5lc3MuZGUvd3At/Y29udGVudC91cGxv/YWRzLzIwMjEvMTEv/Z2FqYXIta2EtaGFs/dmEtNS01MDB4NTAw/LmpwZw",
           "cost": 100
         },
         {
           "name": "Gulab Jamun",
-          "image": "https://imgs.search.brave.com/hfd0gVFLF0EuIC46bFUzdc-CMI3aX2yHz7z1SEz-_HQ/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9ndWxhYi1qYW11/bi1ndWxhYmphbXVu/LWlzLWluZGlhbi1z/d2VldC1zZXJ2ZWQt/Ym93bC1hcy1waWxl/LWNsb3NldXAtdmll/d180NjY2ODktODkz/NDQuanBnP3NpemU9/NjI2JmV4dD1qcGc",
+          "image": "https://imgs.search.brave.com/5usNrP3iIxWXSjpPsT38ysGASlldlkvrDUtCpcgkju8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAwLzAzLzEyLzEx/LzM2MF9GXzMxMjEx/OTZfd2tjZG53NlVl/b3lUbW5TNzg5SlVN/QUtjSFJrdWhNLmpw/Zw",
           "cost": 80
         },
         {
@@ -30,7 +30,7 @@
         },
         {
           "name": "Rajma Chawal",
-          "image": "https://imgs.search.brave.com/XodXJBN0ZMVg0at2YfDmsvT59vdmYgqQ3EoTBIb6vpM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA1Lzc4LzAxLzc2/LzM2MF9GXzU3ODAx/NzY0Nl9KVEFnd1Fx/akd3aEdWUGdaazZ2/NW5MUzZoVE1wQ0Jo/dC5qcGc",
+          "image": "https://imgs.search.brave.com/8tKYsFJFJCGiYOnVVA4N1SkLAcZtY46ECc8WK10GcV8/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/c2Vjb25kcmVjaXBl/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAxNy8wOC9yYWpt/YS1jaGF3YWwtMS03/MjB4NTUxLmpwZw",
           "cost": 160
         },
         {
@@ -50,32 +50,32 @@
         },
         {
           "name": "Chole Chawal",
-          "image": "dal_fry.jpg",
+          "image": "https://imgs.search.brave.com/bqEadeUS42APM4sM0Y9Jkirhp5oaAcXGEBlQZslwvUQ/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMucGljeHkuY29t/L2NhY2hlLzIwMjAv/NS8zLzc4ZjkxNTQ1/ZjQ5MjI3MDIyYTRm/NDJlYmYwZDgxNTMw/LmpwZw",
           "cost": 150
         },
         {
           "name": "Gajar Halwa",
-          "image": "dal_fry.jpg",
+          "image": "https://imgs.search.brave.com/wWjmtjkGS82ARk-DwclB2iXAuXRgjbulZ6fYSFcS2AU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/Y29va3dpdGhrdXNo/aS5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMTkvMTEvY2Fy/cm90X2hhbHdhX2dh/amFyX2hhbHdhLmpw/Zw",
           "cost": 100
         },
         {
           "name": "Gulab Jamun",
-          "image": "dal_fry.jpg",
+          "image": "https://imgs.search.brave.com/6oGgHQHi1ljjYXe6R-OhxYLgxXCWc6PoYPFRYA4g7sw/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9zd2VldC1kaXNo/LWd1bGFiLWphbXVu/LXdoaXRlLWJvd2xf/MTM2MzU0LTI2MDMu/anBnP3NpemU9NjI2/JmV4dD1qcGc",
           "cost": 80
         },
         {
           "name": "Matar Paneer",
-          "image": "dal_fry.jpg",
+          "image": "https://imgs.search.brave.com/Z5F2VslrvPTk--3oAawYuB1kPGfTgQSG1nYrDIqnlE4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/aW5kaWFuaGVhbHRo/eXJlY2lwZXMuY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDIx/LzAzL21hdGFyLXBh/bmVlci5qcGcud2Vi/cA",
           "cost": 180
         },
         {
           "name": "Rajma Chawal",
-          "image": "dal_fry.jpg",
+          "image": "https://imgs.search.brave.com/oTcIMUD3T--lNuZOZwYluJoJn191pwuD-8bH_-hjrrk/rs:fit:500:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA1Lzk5LzY4LzAw/LzM2MF9GXzU5OTY4/MDA5M185bW1SR0Ji/V3BsM0pLS29SM2Fp/WmtZQ2xEZFc1M3E1/aC5qcGc",
           "cost": 160
         },
         {
           "name": "Roti",
-          "image": "dal_fry.jpg",
+          "image": "https://imgs.search.brave.com/cID5Se_dF6Sjc_7ODE1ypYGTDT6GgUsiChYaQU6F5pk/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvNTI2/ODQ2MjgyL3Bob3Rv/L3RyYWRpdGlvbmFs/LWluZGlhbi1yb3Rp/LXJlYWR5LXRvLXNl/cnZlLmpwZz9zPTYx/Mng2MTImdz0wJms9/MjAmYz1vM3l5eVo0/eWpmd3NnY1pmMUpJ/dTByaWNlOGNCMm5M/ZmxoNkVnRjZjNnBr/PQ",
           "cost": 10
         }
       ]
@@ -85,37 +85,37 @@
       "menu": [
         {
           "name": "Dal Fry",
-          "image": "dal_fry.jpg",
+          "image": "https://imgs.search.brave.com/Kzr76M9m4hTbrH3jtTYIWBSIt_W0wq-OamHMKKlmcCk/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/aW5kaWFuaGVhbHRo/eXJlY2lwZXMuY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDE5/LzA3L2RhbC1mcnkt/MS02ODB4NTEwLmpw/Zy53ZWJw",
           "cost": 120
         },
         {
           "name": "Chole Chawal",
-          "image": "https://imgs.search.brave.com/6x1q6O1wsMhse0Wj1mE6b_1X4mQejKC-pX_TOnh7A9E/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTMz/MDY4OTY5OS9waG90/by9jaGFuYS1tYXNh/bGEtZGlzaC5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9Y3s3/Y2pTcHdKa1hOMnhK/VEhZSFdKNm9DZ2RU/UjRnYz0",
+          "image": "https://imgs.search.brave.com/ZvYe-4MmkmEaeHDhhStE5L738dmLpUNAbv3MeCOYkls/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuaW1tZWRpYXRl/LmNvLnVrL3Byb2R1/Y3Rpb24vdm9sYXRp/bGUvc2l0ZXMvMzAv/MjAyMS8wMi9DaG9s/ZS13aXRoLWN1bWlu/LXJpY2UtYW5kLXJh/aXRhLWIwMGNiYTcu/anBnP3F1YWxpdHk9/OTAmcmVzaXplPTU1/Niw1MDU",
           "cost": 150
         },
         {
           "name": "Gajar Halwa",
-          "image": "dal_fry.jpg",
+          "image": "https://imgs.search.brave.com/kxWGuOwkXgAv8TLwsGWfdzoH7ILgIKmW5yAXtawvUos/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/dmVncmVjaXBlc29m/aW5kaWEuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDE3LzEx/L2dhamFyLWthLWhh/bHdhLXJlY2lwZTE4/LmpwZw",
           "cost": 100
         },
         {
           "name": "Gulab Jamun",
-          "image": "dal_fry.jpg",
+          "image": "https://imgs.search.brave.com/lSOsOVzZ55jUmX7ovY7jgFOW4rrf-QjcgAT_4u3ZiLk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTQy/NDUwOTk3My9waG90/by9ndWxhYi1qYW11/bi1hbi1pbmRpYW4t/ZGVzc2VydC5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9bk5Y/WUdJTVk3ejRiQnE2/c1JCbGdvSGJBSk41/cDc1R2hXMGhWWjh1/V2hBTT0",
           "cost": 80
         },
         {
           "name": "Matar Paneer",
-          "image": "dal_fry.jpg",
+          "image": "https://imgs.search.brave.com/ZDNZUW4-qfB6VGbrNtmJcD5vEM3zZ8EGOZLRUwpOySI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/c2ltcGx5cmVjaXBl/cy5jb20vdGhtYi9K/OFE3OVRySkU3X1VR/RS1LQk9BVTFjN3pU/eUU9LzE1MDB4MC9m/aWx0ZXJzOm5vX3Vw/c2NhbGUoKTptYXhf/Ynl0ZXMoMTUwMDAw/KTpzdHJpcF9pY2Mo/KS9TaW1wbHktUmVj/aXBlcy1NYXRhci1Q/YW5lZXItTEVBRC0w/Mi01ZWIxNmQzMTM4/MTU0NWM4YTJiNGIy/YWJhMjdlYzRjMS5q/cGc",
           "cost": 180
         },
         {
           "name": "Rajma Chawal",
-          "image": "dal_fry.jpg",
+          "image": "https://imgs.search.brave.com/U37aQ90ZP-KmbhIqi8F0WHHkUeIcq1-cmj_cv_2NigM/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/c2Vjb25kcmVjaXBl/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyMi8wMS9yYWpt/YS1jaGF3YWwtMi03/MjB4NTQ0LmpwZw",
           "cost": 160
         },
         {
           "name": "Roti",
-          "image": "dal_fry.jpg",
+          "image": "https://imgs.search.brave.com/OCkOA-EVEyjeOJKqYlw_C81WbQO2wi5X6_a2oR5BUyM/rs:fit:500:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA0LzAxLzA0Lzkx/LzM2MF9GXzQwMTA0/OTE4N180OXhLdDdT/bGY5ZmNrN2JDbEFx/aW5IUXVEY3RCeVF2/dC5qcGc",
           "cost": 10
         }
       ]
@@ -125,22 +125,22 @@
       "menu": [
         {
           "name": "Dal Fry",
-          "image": "dal_fry.jpg",
+          "image": "https://imgs.search.brave.com/wpOlh8OQgzxRcYgNdbK979gWYD9uLPMexEQx1-hvLpA/rs:fit:500:0:0/g:ce/aHR0cDovL2hlYmJh/cnNraXRjaGVuLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvbWFp/blBob3Rvcy9kYWwt/ZnJ5LXJlY2lwZS1k/YWwtcmVjaXBlLXRv/b3ItZGFsLWZyeS1v/ci1hcmhhci1kYWwt/ZnJ5LTItMTAyNHg3/NjkuanBlZw",
           "cost": 120
         },
         {
           "name": "Chole Chawal",
-          "image": "dal_fry.jpg",
+          "image": "https://imgs.search.brave.com/p7zhwjxt4530d0etBl8qFuDMeWnyrnfANje8WZC6jDE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMucGljeHkuY29t/L2NhY2hlLzIwMjEv/NC83LzVkYzExY2U3/YjM1NDJlMmE3N2Jh/ZDE2YWFkOTc3N2Zh/LmpwZw",
           "cost": 150
         },
         {
           "name": "Gajar Halwa",
-          "image": "dal_fry.jpg",
+          "image": "https://imgs.search.brave.com/rc7cbqcANoUA-rbmTi9xO3o9VUPUNB2N1Uhoyso_ksw/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudG9paW1nLmNv/bS90aHVtYi9tc2lk/LTY2NzYyNDEwLGlt/Z3NpemUtNzM5NTMw/LHdpZHRoLTQwMCxy/ZXNpemVtb2RlLTQv/NjY3NjI0MTAuanBn",
           "cost": 100
         },
         {
           "name": "Gulab Jamun",
-          "image": "dal_fry.jpg",
+          "image": "https://imgs.search.brave.com/iM_BJmhu_ipihQgQYqQgaJYwEn_wswWufgaiP6kBVyA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAxLzE0LzUwLzg5/LzM2MF9GXzExNDUw/ODkzMV95anZmeWF2/M2laQWxQNFNVQkI1/WTd2SHBOVDRneURH/bi5qcGc",
           "cost": 80
         },
         {
@@ -149,10 +149,10 @@
         }
         ,{
           "name":"Rajma Chawal",
-          "image": "dal_fry.jpg"
+          "image": "https://imgs.search.brave.com/oTcIMUD3T--lNuZOZwYluJoJn191pwuD-8bH_-hjrrk/rs:fit:500:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA1Lzk5LzY4LzAw/LzM2MF9GXzU5OTY4/MDA5M185bW1SR0Ji/V3BsM0pLS29SM2Fp/WmtZQ2xEZFc1M3E1/aC5qcGc"
         },{
           "name":"Roti",
-          "image": "dal_fry.jpg"
+          "image": "https://imgs.search.brave.com/ahFd_9js-vHUKYs0SwDK_t_rrst0mgCWOgq1vSnW3FY/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTMz/NDEwNDg0Ny9waG90/by9ob21lbWFkZS1p/bmRpYW4tcm90aS1v/ci1jaGFwYXRpLWlu/ZGlhbi1icmVhZC5q/cGc_cz02MTJ4NjEy/Jnc9MCZrPTIwJmM9/RFQ3N2VzSlRMTFgy/OTZsbzRPZFJiN1dN/dmJVSjRYb3NpSkJ6/QjRwaFZsND0"
         }
     
     ]

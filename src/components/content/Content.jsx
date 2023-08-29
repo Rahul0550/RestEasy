@@ -25,7 +25,7 @@ export default function Content({selectedHotel }) {
                 <img
                   src={item.image}
                   alt={item.name}
-                  style={{ width: "100px", height: "80px", marginBottom: "5px" }}
+                  style={{ width: "150px", height: "130px", marginBottom: "5px" }}
                 />
                 <div>
                   {item.name}
