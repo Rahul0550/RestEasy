@@ -24,7 +24,7 @@ export default function NavBar2() {
           <Toolbar
             sx={{ justifyContent: "space-between", alignItems: "center" }}
           >
-            <Typography onClick={() => navigate("/")}>
+            <Typography onClick={() => navigate("/")} style={{cursor:"pointer"}}>
               <FoodBankIcon />
               RestEasy
             </Typography>

@@ -145,14 +145,17 @@
         },
         {
           "name":"Matar Paneer",
-          "image": "https://imgs.search.brave.com/S42t2X8iWPD2XU6u7bvn-AxfY1qdiZLl0_aeSw3Ezso/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTMy/NTI3MTgzMS9waG90/by9ncmVlbi1wZWFz/LW9yLW1hdGFyLXBh/bmVlci1jdXJyeS5q/cGc_cz02MTJ4NjEy/Jnc9MCZrPTIwJmM9/aDBhN2pjRjJHczN2/QThoTmxXSk00QTZC/dzUtWlZtVXVXRG5r/ZWNrR01nYz0"
+          "image": "https://imgs.search.brave.com/S42t2X8iWPD2XU6u7bvn-AxfY1qdiZLl0_aeSw3Ezso/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTMy/NTI3MTgzMS9waG90/by9ncmVlbi1wZWFz/LW9yLW1hdGFyLXBh/bmVlci1jdXJyeS5q/cGc_cz02MTJ4NjEy/Jnc9MCZrPTIwJmM9/aDBhN2pjRjJHczN2/QThoTmxXSk00QTZC/dzUtWlZtVXVXRG5r/ZWNrR01nYz0",
+          "cost": 160
         }
         ,{
           "name":"Rajma Chawal",
-          "image": "https://imgs.search.brave.com/oTcIMUD3T--lNuZOZwYluJoJn191pwuD-8bH_-hjrrk/rs:fit:500:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA1Lzk5LzY4LzAw/LzM2MF9GXzU5OTY4/MDA5M185bW1SR0Ji/V3BsM0pLS29SM2Fp/WmtZQ2xEZFc1M3E1/aC5qcGc"
+          "image": "https://imgs.search.brave.com/oTcIMUD3T--lNuZOZwYluJoJn191pwuD-8bH_-hjrrk/rs:fit:500:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA1Lzk5LzY4LzAw/LzM2MF9GXzU5OTY4/MDA5M185bW1SR0Ji/V3BsM0pLS29SM2Fp/WmtZQ2xEZFc1M3E1/aC5qcGc",
+          "cost": 170
         },{
           "name":"Roti",
-          "image": "https://imgs.search.brave.com/ahFd_9js-vHUKYs0SwDK_t_rrst0mgCWOgq1vSnW3FY/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTMz/NDEwNDg0Ny9waG90/by9ob21lbWFkZS1p/bmRpYW4tcm90aS1v/ci1jaGFwYXRpLWlu/ZGlhbi1icmVhZC5q/cGc_cz02MTJ4NjEy/Jnc9MCZrPTIwJmM9/RFQ3N2VzSlRMTFgy/OTZsbzRPZFJiN1dN/dmJVSjRYb3NpSkJ6/QjRwaFZsND0"
+          "image": "https://imgs.search.brave.com/ahFd_9js-vHUKYs0SwDK_t_rrst0mgCWOgq1vSnW3FY/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTMz/NDEwNDg0Ny9waG90/by9ob21lbWFkZS1p/bmRpYW4tcm90aS1v/ci1jaGFwYXRpLWlu/ZGlhbi1icmVhZC5q/cGc_cz02MTJ4NjEy/Jnc9MCZrPTIwJmM9/RFQ3N2VzSlRMTFgy/OTZsbzRPZFJiN1dN/dmJVSjRYb3NpSkJ6/QjRwaFZsND0",
+          "cost": 9
         }
     
     ]
