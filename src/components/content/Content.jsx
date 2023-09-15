@@ -33,7 +33,7 @@ export default function Content({selectedHotel }) {
                 <div style={{color:"dodgerblue", fontWeight:"bold"}}>
                   ${item.cost}
                 </div>
-                <Button variant="contained" onClick={() => handleAddToCart(item.cost)}>Add to cart</Button>
+                <Button variant="contained" onClick={() => handleAddToCart(item.cost)} style={{margin:"5px 5px"}}>Add to cart</Button>
               </div>
             </li>
           ))}
